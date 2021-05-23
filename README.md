@@ -1,3 +1,5 @@
+This Project consists of an TODO app using Reactjs. In this project I have implemented React concepts like Hooks and Context Api.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
